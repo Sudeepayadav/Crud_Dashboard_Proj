@@ -1,0 +1,37 @@
+{
+  "title": "Registry Scan",
+  "assessmentTitle": "Image Risk Assessment",
+  "totalVulnerabilities": 1470,
+  "vulnerabilityLevels": [
+    {
+      "level": "Critical",
+      "count": 9,
+      "color": "#DC2626",
+      "percentage": 0.10
+    },
+    {
+      "level": "High",
+      "count": 150,
+      "color": "#F87171",
+      "percentage": 0.20
+    },
+    {
+      "level": "Medium",
+      "count": 470,
+      "color": "#FB923C",
+      "percentage": 0.40
+    },
+    {
+      "level": "Low",
+      "count": 710,
+      "color": "#FBBF24",
+      "percentage": 0.20
+    },
+    {
+      "level": "Info",
+      "count": 131,
+      "color": "#D1D5DB",
+      "percentage": 0.10
+    }
+  ]
+}
